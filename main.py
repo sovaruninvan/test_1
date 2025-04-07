@@ -6,4 +6,3 @@ def add(a,b):
 
 print (add(1,2))
 
-ok
